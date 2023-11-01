@@ -1,0 +1,20 @@
+# Build files
+*.min.js
+*.map
+
+# Temporary and backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Cache and log files
+*.cache
+*.log
+
+# IDE-specific files
+*.idea/
+*.vscode/
+
+# Node.js modules
+node_modules/
